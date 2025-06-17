@@ -1,0 +1,85 @@
+{
+  "cities": [
+    "Madrid",
+    "Barcelona",
+    "Valencia",
+    "Paris",
+    "Roma",
+    "Malta"
+  ],
+  "connections": [
+    {
+      "type": "Car",
+      "origin": "Madrid",
+      "destination": "Barcelona",
+      "plate": "1234ABC"
+    },
+    {
+      "type": "Plane",
+      "origin": "Madrid",
+      "destination": "Valencia",
+      "flight_number": "MAV456",
+      "seat": "4B"
+    },
+    {
+      "type": "Ship",
+      "origin": "Valencia",
+      "destination": "Malta",
+      "ship_number": "B456"
+    },
+    {
+      "type": "Plane",
+      "origin": "Valencia",
+      "destination": "Madrid",
+      "flight_number": "VAM654",
+      "seat": "7E"
+    },
+    {
+      "type": "Ship",
+      "origin": "Valencia",
+      "destination": "Barcelona",
+      "ship_number": "B858"
+    },
+    {
+      "type": "Plane",
+      "origin": "Barcelona",
+      "destination": "Roma",
+      "flight_number": "BAR321",
+      "seat": "1A"
+    },
+    {
+      "type": "Train",
+      "origin": "Barcelona",
+      "destination": "Valencia",
+      "flight_number": "T231",
+      "seat": "15D"
+    },
+    {
+      "type": "Train",
+      "origin": "Barcelona",
+      "destination": "Madrid",
+      "flight_number": "T321",
+      "seat": "3C"
+    },
+    {
+      "type": "Car",
+      "origin": "Barcelona",
+      "destination": "Paris",
+      "plate": "5678DEF"
+    },
+    {
+      "type": "Plane",
+      "origin": "Roma",
+      "destination": "Malta",
+      "flight_number": "RAM987",
+      "seat": "9G"
+    },
+    {
+      "type": "Plane",
+      "origin": "Malta",
+      "destination": "Roma",
+      "flight_number": "MAR258",
+      "seat": "2C"
+    }
+  ]
+}
