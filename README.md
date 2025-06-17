@@ -64,9 +64,6 @@ Para agregar nuevas ciudades o conexiones, edita el archivo JSON siguiendo el fo
 - **Búsqueda de Caminos**: Implementa el algoritmo de Búsqueda en Amplitud (BFS) para encontrar el camino más corto
 - **Diseño Orientado a Objetos**: Utiliza clases para ciudades y conexiones para crear un diseño modular
 
-## Licencia
-
-[Licencia MIT](LICENSE)
 
 ## Autor
 
